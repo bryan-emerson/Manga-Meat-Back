@@ -6,7 +6,7 @@ let characterSchema = new mongoose.Schema({
     animeOrigin: String,
     school: String,
     age: Number,
-    picture: URL
+    picture: String
 })
 
 let characterModel = mongoose.model("Characters", characterSchema)

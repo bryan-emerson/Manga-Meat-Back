@@ -1,7 +1,7 @@
 let mongoose = require('mongoose')
 
 let postSchema = new mongoose.Schema({
-    photo: URL,
+    photo: String,
     characterID: Number,
     foodId: Number,
     caption: String,
