@@ -1,10 +1,10 @@
 let mongoose = require('mongoose')
 
 let postSchema = new mongoose.Schema({
-    comments: [String],
+    comments: [],
     photo: URL,
     characterID: String,
-    foodId: String,
+    foodId: Number,
     caption: String
 })
 
