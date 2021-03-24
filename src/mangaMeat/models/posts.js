@@ -1,11 +1,11 @@
 let mongoose = require('mongoose')
 
 let postSchema = new mongoose.Schema({
-    comments: [],
     photo: URL,
-    characterID: String,
+    characterID: Number,
     foodId: Number,
-    caption: String
+    caption: String,
+    comments: [String]
 })
 
 let postModel = mongoose.model("Posts", postSchema)
