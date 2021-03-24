@@ -1,0 +1,85 @@
+{
+    "Character":
+    [
+        {
+            "ID": 1,
+            "Name": "Sōma Yukihira",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 18,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/a/a9/S%C5%8Dma_Yukihira_%28anime%29.png/revision/latest?cb=20160903122538"
+        },
+        {
+            "ID": 2,
+            "Name": "Nakiri Erina",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 17,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/c/c9/Erina_mocks_S%C5%8Dma_%28anime%29.png/revision/latest?cb=20150705042503"
+        },
+        {
+            "ID": 3,
+            "Name": "Takumi Arudīni",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 18,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/4/4a/Takumi_finishes_his_egg_dish_%28anime%29.png/revision/latest?cb=20150630134742"
+        },
+        {
+            "ID": 4,
+            "Name": "Nakiri Arisu",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 18,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/1e/Alice_Nakiri_%28anime%29.png/revision/latest?cb=20160326202725"
+        },
+        {
+            "ID": 5,
+            "Name": "Isami Arudīni",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 17,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/5/5e/Isami_during_the_summer.png/revision/latest?cb=20150825073001"
+        },
+        {
+            "ID": 6,
+            "Name": "Daimidō Fumio",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 55,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/2/23/Fumio_Daimid%C5%8D_%28anime%29.png/revision/latest?cb=20160327142417"
+        },
+        {
+            "ID": 7,
+            "Name": "Dōjima Gin",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 34,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/0/05/Gin_D%C5%8Djima_%28anime%29.png/revision/latest?cb=20160322152255"
+        },
+        {
+            "ID": 8,
+            "Name": "Yukihira Jōichirō",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 41,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/2/23/J%C5%8Dichir%C5%8D_Yukihira_%28anime%29.png/revision/latest?cb=20150701211033"
+        },
+        {
+            "ID": 9,
+            "Name": "Shinomiya Kojirō",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 28,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/2/23/Kojiro_Shinomiya_%28anime%29.png/revision/latest?cb=20150522193953"
+        },
+        {
+            "ID": 10,
+            "Name": "Inui Hinako",
+            "Anime-Origin": "Shokugeki no Soma",
+            "School": "Tōtsuki Culinary Academy",
+            "Age": 27,
+            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/a/a2/Hinako_Inui_%28anime%29.png/revision/latest?cb=20150617152210"
+        }
+    ]
+}
