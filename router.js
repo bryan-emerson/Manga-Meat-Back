@@ -1,9 +1,9 @@
 let express = require('express')
-let mangaRouter = require('./mangaMeat/router')
+let mangaRouter = require('./src/mangaMeat/router')
 
 
 let router = new express.Router()
-router.use('/mangaMeat', mangaRouter)
+router.use('/src/mangaMeat', mangaRouter)
 
 
 module.exports = router

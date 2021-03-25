@@ -1,53 +1,136 @@
-{
-    "Food": 
-    [
-        {
-            "ID": 1,
-            "Name": "Chaliapin Steak Donburi",
-            "Ingredients": ["Beef Steak", "Onions", "Rice", "Garlic", "Pepper", "Salt", "Potato Starch", "Pickled plum"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/1e/Chaliapin_Steak_Don_%28anime%29.png/revision/latest?cb=20150515215831"
-        },
-        {
-            "ID": 2,
-            "Name": "Spicy Chicken Curry",
-            "Ingredients": ["Chicken meat", "Curry leaves", "Onions", "Cayenne Chili Peppers", "Cumin", "Corriander", "Coconut Milk", "Salt"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/e/e8/Kozhi_Varutha_Curry_%28anime%29.png/revision/latest?cb=20150817175256"
-        },
-        {
-            "ID": 3,
-            "Name": "Jōichirō Special Rich Ramen",
-            "Ingredients": ["Ramen Noodles", "Grilled Carrots", "Grilled Turnips", "Rock Salt", "Yuzu Citrus", "Tempeh", "Vegetable Broth", "Soy Milk", "Miso", "Ebi-Imo Taro", "Fried Gobo Root", "Fried Lotus Roots", "Garlic", "Ginger", "Chili oil"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/3/32/J%C5%8Dichir%C5%8D_Special_Rich_Ramen_%28anime%29.png/revision/latest?cb=20150722102149"
-        },
-        {
-            "ID": 4,
-            "Name": "Morphing Furikake Rice",
-            "Ingredients": ["Chicken Wings", "Bonito Stock", "Ginger", "Onions", "Sake", "Mirin", "Sugar", "Light Soy Sauce", "Salt", "Broth", "Eggs", "Scallions", "Rice"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/10/Transforming_Furikake_Gohan_%28anime%29.png/revision/latest?cb=20150411050442"
-        },
-        {
-            "ID": 5,
-            "Name": "Roast Pork, Just Kidding",
-            "Ingredients": ["White potatoes", "Eringi mushrooms", "White onions", "Rosemary", "Butter", "Bacon", "Red Wine", "Sake", "Soy sauce", "Parsley"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/b/b0/Roast_Pork%2C_Just_Kidding_%28anime%29.png/revision/latest?cb=20150419102847"
-        },
-        {
-            "ID": 6,
-            "Name": "Apple Risotto",
-            "Ingredients": ["Apples", "Lemon juice", "Onions", "Salt", "Pepper", "Bacon", "Cheese"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/5/5b/Apple_Risotto_%28anime%29.png/revision/latest?cb=20150724224723"
-        },
-        {
-            "ID": 7,
-            "Name": "Chicken Egg Tempura Don",
-            "Ingredients": ["Chicken leg", "Tempura batter", "Soy sauce", "Mirin", "Bonito Dashi Stock", "Rice", "Perilla leaves"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/8/88/Chicken_Egg_Tempura_Don_%28Anime%29.png/revision/latest?cb=20180417180101"
-        },
-        {
-            "ID": 8,
-            "Name": "Sumire Karaage Roll",
-            "Ingredients": ["Chicken Thigh Meat", "Soy sauce", "Chili Peppers", "Cornstarch", "Lettuce", "Flat-Leaf Parsley", "Bánh Xèo", "Frying Oil", "Potato Starch", "Fish Sauce"],
-            "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/1e/Chaliapin_Steak_Don_%28anime%29.png/revision/latest?cb=20150515215831"
-        }
-    ]
-}
+[
+    {
+        "ID": 1,
+        "Name": "Chaliapin Steak Donburi",
+        "Ingredients": [
+            "Beef Steak",
+            "Onions",
+            "Rice",
+            "Garlic",
+            "Pepper",
+            "Salt",
+            "Potato Starch",
+            "Pickled plum"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/1e/Chaliapin_Steak_Don_%28anime%29.png/revision/latest?cb=20150515215831"
+    },
+    {
+        "ID": 2,
+        "Name": "Spicy Chicken Curry",
+        "Ingredients": [
+            "Chicken meat",
+            "Curry leaves",
+            "Onions",
+            "Cayenne Chili Peppers",
+            "Cumin",
+            "Corriander",
+            "Coconut Milk",
+            "Salt"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/e/e8/Kozhi_Varutha_Curry_%28anime%29.png/revision/latest?cb=20150817175256"
+    },
+    {
+        "ID": 3,
+        "Name": "Jōichirō Special Rich Ramen",
+        "Ingredients": [
+            "Ramen Noodles",
+            "Grilled Carrots",
+            "Grilled Turnips",
+            "Rock Salt",
+            "Yuzu Citrus",
+            "Tempeh",
+            "Vegetable Broth",
+            "Soy Milk",
+            "Miso",
+            "Ebi-Imo Taro",
+            "Fried Gobo Root",
+            "Fried Lotus Roots",
+            "Garlic",
+            "Ginger",
+            "Chili oil"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/3/32/J%C5%8Dichir%C5%8D_Special_Rich_Ramen_%28anime%29.png/revision/latest?cb=20150722102149"
+    },
+    {
+        "ID": 4,
+        "Name": "Morphing Furikake Rice",
+        "Ingredients": [
+            "Chicken Wings",
+            "Bonito Stock",
+            "Ginger",
+            "Onions",
+            "Sake",
+            "Mirin",
+            "Sugar",
+            "Light Soy Sauce",
+            "Salt",
+            "Broth",
+            "Eggs",
+            "Scallions",
+            "Rice"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/10/Transforming_Furikake_Gohan_%28anime%29.png/revision/latest?cb=20150411050442"
+    },
+    {
+        "ID": 5,
+        "Name": "Roast Pork, Just Kidding",
+        "Ingredients": [
+            "White potatoes",
+            "Eringi mushrooms",
+            "White onions",
+            "Rosemary",
+            "Butter",
+            "Bacon",
+            "Red Wine",
+            "Sake",
+            "Soy sauce",
+            "Parsley"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/b/b0/Roast_Pork%2C_Just_Kidding_%28anime%29.png/revision/latest?cb=20150419102847"
+    },
+    {
+        "ID": 6,
+        "Name": "Apple Risotto",
+        "Ingredients": [
+            "Apples",
+            "Lemon juice",
+            "Onions",
+            "Salt",
+            "Pepper",
+            "Bacon",
+            "Cheese"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/5/5b/Apple_Risotto_%28anime%29.png/revision/latest?cb=20150724224723"
+    },
+    {
+        "ID": 7,
+        "Name": "Chicken Egg Tempura Don",
+        "Ingredients": [
+            "Chicken leg",
+            "Tempura batter",
+            "Soy sauce",
+            "Mirin",
+            "Bonito Dashi Stock",
+            "Rice",
+            "Perilla leaves"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/8/88/Chicken_Egg_Tempura_Don_%28Anime%29.png/revision/latest?cb=20180417180101"
+    },
+    {
+        "ID": 8,
+        "Name": "Sumire Karaage Roll",
+        "Ingredients": [
+            "Chicken Thigh Meat",
+            "Soy sauce",
+            "Chili Peppers",
+            "Cornstarch",
+            "Lettuce",
+            "Flat-Leaf Parsley",
+            "Bánh Xèo",
+            "Frying Oil",
+            "Potato Starch",
+            "Fish Sauce"
+        ],
+        "Picture": "https://static.wikia.nocookie.net/shokugekinosoma/images/1/1e/Chaliapin_Steak_Don_%28anime%29.png/revision/latest?cb=20150515215831"
+    }
+]
