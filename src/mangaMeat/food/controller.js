@@ -1,34 +1,34 @@
-let Post = require('./models/posts')
+let Food = require('./food')
 
 let controller = {
   create(request, response){
-    let post = request.body
-    Post
-      .create(post)
-      .then(post=> response.json(post))
+    let food = request.body
+    Food
+      .create(food)
+      .then(food=> response.json(food))
   },
   readById(request, response){
     let id = request.params.id
-    Post
+    Food
       .findById(id)
-      .then(post=> response.json(post))
+      .then(food=> response.json(food))
   },
   readAll(request, response){
-    Post
+    Food
       .find({})
-      .then(post=> response.json(post))
+      .then(food=> response.json(food))
   },
   update(request, response) {
-    let post = request.body
+    let food = request.body
     let id = request.params.id
-    Post
-      .findByIdAndUpdate(id, post, {new: true})
-      .then(post=> response.json(post))
+    Food
+      .findByIdAndUpdate(id, food, {new: true})
+      .then(food=> response.json(food))
 
   },
   destroy(request, response){
     let id = request.params.id
-    Post
+    Food
       .findByIdAndDelete(id)
       .then(()=> response.json({ok: true}))
   }

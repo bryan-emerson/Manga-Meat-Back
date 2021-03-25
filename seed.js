@@ -2,13 +2,13 @@ require('./database.js')
 let mongoose = require('mongoose')
 
 let foodJson = require('./src/data/food.json')
-let AnimeFood = require('./src/mangaMeat/models/food.js')
+let AnimeFood = require('./src/mangaMeat/food/food.js')
 
 let characterJson = require('./src/data/character.json')
-let AnimeChar = require('./src/mangaMeat/models/character.js')
+let AnimeChar = require('./src/mangaMeat/character/character.js')
 
 let postJson = require('./src/data/posts.json')
-let Posts = require('./src/mangaMeat/models/posts.js')
+let Posts = require('./src/mangaMeat/post/posts.js')
 
 AnimeFood
   .deleteMany({})
