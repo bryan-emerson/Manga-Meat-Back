@@ -1,5 +1,5 @@
 let Food = require('./food')
-require('../../database.js')
+require('../../../database.js')
 
 let controller = {
   create(request, response){
