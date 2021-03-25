@@ -1,10 +1,10 @@
 let mongoose = require('mongoose')
 
 let foodSchema = new mongoose.Schema({
-    id: Number,
-    name: String,
-    picture: String,
-    ingredients: [String],
+    Id: Number,
+    Name: String,
+    Picture: String,
+    Ingredients: [String],
 })
 
 let foodModel = mongoose.model("Food", foodSchema)
