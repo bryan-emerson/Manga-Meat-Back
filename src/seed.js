@@ -14,7 +14,7 @@ AnimeFood
   .deleteMany({})
   .then(()=> AnimeFood.create(foodJson))
   .then(mongoose.disconnect)
-  .then(()=> console.log('AnimeChar seeding done!'))
+  .then(()=> console.log('AnimeFood seeding done!'))
 
 AnimeChar
   .deleteMany({})
@@ -26,4 +26,4 @@ Posts
   .deleteMany({})
   .then(()=> Posts.create(postJson))
   .then(mongoose.disconnect)
-  .then(()=> console.log('AnimeChar seeding done!'))
+  .then(()=> console.log('Posts seeding done!'))
