@@ -1,1 +1,9 @@
-{}
+[
+    {
+    "Photo": "String",
+    "CharacterID": 1,
+    "FoodId": 2,
+    "Caption": "String",
+    "Comments": ["String"]
+    }
+]
