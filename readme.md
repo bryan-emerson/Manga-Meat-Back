@@ -4,6 +4,11 @@ Manga Meat uses a MongoDB Atlas API for the backend. Express is used to simplify
 
 ![user view](./src/image/mangaBack.png)
 
-### Endpoints
+## Endpoints
 
 Food data can be found at the '/food' endpoint and chef data can be found at the '/character' endpoint.
+
+## Frontend
+
+Deployed Frontend: http://mangameat.surge.sh
+Frontend Repo: https://github.com/bryan-emerson/Manga-Meat-Front
